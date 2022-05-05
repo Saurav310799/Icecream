@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IcecreamBP</string>
+    <string name="flavourName">Add Flavour</string>
+    <string name="Price">Price</string>
+    <string name="submitButton">Submit</string>
+    <string name="selectButton">Select Image</string>
+    <string name="selectedImage">Selected Image</string>
+
+</resources>
