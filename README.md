@@ -1,3 +1,3 @@
 # Icecream
-Send &amp; Show sended products using retrofit
-Added Php Scrips for online database (uploadimage.php, showproduct.php, database.png.)
+Add &amp; display  products using retrofit in recyclerview
+Added Php Scrips for Server side programming (uploadimage.php, showproduct.php, database.png.)
